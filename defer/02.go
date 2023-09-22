@@ -57,4 +57,5 @@ func main() {
 	fmt.Println(f2())
 	fmt.Println(f3())
 	fmt.Println(f4())
+	fmt.Println(f5())
 }
